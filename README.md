@@ -4,8 +4,8 @@ Aplicativo Flutter que calcula a corrente máxima fornecida por **Grupo-Motor-Ge
 
 <p align="center">
   
+![Tela principal do app](images/preview0.png)
 ![Tela principal do app](images/preview1.png)
-![Tela principal do app](images/preview2.png)
 
 </p>
 
