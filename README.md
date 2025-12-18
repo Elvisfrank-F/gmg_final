@@ -1,23 +1,33 @@
-# 💱 Calculadora de corrente máxima de GMG
+# ⚡ GMG — Calculadora de Corrente Máxima
 
-Aplicativo Flutter que calcula a corrente máxima fornecida por **Grupo-Motor-Gerador**.
+Aplicativo desenvolvido em **Flutter** para cálculo da **corrente máxima fornecida por um Grupo Motor-Gerador (GMG)**, considerando diferentes unidades de potência.
 
 <p align="center">
-  
-![Tela principal do app](images/preview0.png)
-![Tela principal do app](images/preview1.png)
-
+  <img src="images/preview0.png" width="200"/>
+  <img src="images/preview1.png" width="200"/>
 </p>
 
 ## 🚀 Funcionalidades
-- Calcula com diferentes potências  
-- KVA, KW e CV
+- Cálculo de corrente máxima a partir da potência do GMG
+- Suporte a diferentes unidades:
+  - kVA
+  - kW
+  - CV (cavalo-vapor)
+- Exibição clara dos resultados para diferentes tensões
 
-## 🔤 Mudanças de linguagem
+## 🔤 Idiomas
+- Português
+- Inglês
 
 <p align="center">
-
-![Tela inicial](images/home.gif)
-![Tela de configurações](images/settings.gif)
-
+  <img src="images/home.gif" width="200"/>
+  <img src="images/settings.gif" width="200"/>
 </p>
+
+## 🛠 Tecnologias utilizadas
+- Flutter
+- Lógica matemática aplicada
+- Interface responsiva
+
+## 🎯 Objetivo do projeto
+Projeto desenvolvido com foco em **prática de lógica, cálculos técnicos e construção de interfaces em Flutter**, servindo como base para projetos mais avançados.
